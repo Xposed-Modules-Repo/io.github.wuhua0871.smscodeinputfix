@@ -1,1 +1,1 @@
-为旧版 XposedSmsCode 2.5.1 恢复 Android 15 验证码模拟输入；按电话服务 UID 1001 放行，需 Root 和 Xposed 兼容框架，仅系统框架作用域。作者：wuhua0871。
+为旧版 XposedSmsCode 2.5.1 恢复验证码模拟输入；Android 12+ 按接口适配，已核对 AOSP 12—16，仅电话服务 UID 1001 和系统框架作用域。需 Root 和 Xposed 兼容框架。作者：wuhua0871。
